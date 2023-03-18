@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/iam_nilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_nilin" height="30" width="40" /></a>
 <a href="https://fb.com/nilin jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nilin jacob" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/flarelabs coding malayalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flarelabs coding malayalam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsmenilin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsmenilin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/flarelabscodingmalayalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="flarelabs coding malayalam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsmenilin18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsmenilin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
