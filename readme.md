@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **ReactJs,NextJs,Material UI,Tailwind CSS**
 
-- 📝 I upload coding videos on youtube [https://www.youtube.com/channel/UCNADgjEedV2_3a25jF3tNBw](https://www.youtube.com/channel/UCNADgjEedV2_3a25jF3tNBw)
-
 - 💬 Ask me about **react,material ui**
 
 - 📫 How to reach me **itsmenilin18@gmail.com**
