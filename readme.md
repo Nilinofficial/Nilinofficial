@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilin Jacob</h1>
 <h3 align="center">A self learnt frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs,NextJs,Material UI,Tailwind CSS**
+- 🌱 I’m currently learning **ReactJs,NextJs,Material UI,Tailwind CSS,NodeJS**
 
 - 💬 Ask me about **react,material ui**
 
