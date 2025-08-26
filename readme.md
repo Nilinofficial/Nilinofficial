@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react,material ui**
 
-- 📫 How to reach me **itsmenilin18@gmail.com**
+- 📫 How to reach me **iamnilin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
